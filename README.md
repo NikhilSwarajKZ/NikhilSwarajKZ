@@ -2,7 +2,7 @@
 - 👀 I’m interested in CyberSecurity,Web App Development,AI & ML.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me nikhilswaraj.official@gmail.com
+- 📫 How to reach me linkedin.com/in/nikhilswaraj
 
 <!---
 NikhilSwarajOfficial/NikhilSwarajOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
