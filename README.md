@@ -2,9 +2,8 @@
 - 👀 I’m interested in CyberSecurity,Web App Development,AI & ML.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me t.me/KristosiZinvor
-- ![LinkedinGIF](https://user-images.githubusercontent.com/119269184/204174251-a32ad9ba-2132-4905-8654-c7431e6e1a7b.gif)
-www.linkedin.com/in/nikhilswaraj
+- 📫 How to reach me https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white  t.me/KristosiZinvor
+- 📰 LinkedIn: www.linkedin.com/in/nikhilswaraj
 
 
 
