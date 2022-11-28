@@ -1,4 +1,4 @@
-- 👋 Hi, I’m NikhilSwaraj
+- 👋 Hi, I’m Nikhil Swaraj
 - 👀 I’m interested in CyberSecurity,Web App Development,AI & ML.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate
